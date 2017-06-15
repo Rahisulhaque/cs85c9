@@ -17,13 +17,8 @@
 
   <body>
     <div class="container">
-      <h1>Hello, world! </h1>
-      <h2>This is a guest book!</h2>
-      <p>Please take a moment and tell me about you visit in my website:  </p>
+      
     </div>
-    
-     
-
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
