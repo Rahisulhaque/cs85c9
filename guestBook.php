@@ -19,17 +19,10 @@
     <div class="container">
       <h1>Hello, world! </h1>
       <h2>This is a guest book!</h2>
-      <p>Please take a moment and </p>
+      <p>Please take a moment and tell me about you visit in my website:  </p>
     </div>
     
-     <?php
-            // A simple web site in Cloud9 that runs through Apache
-            // Press the 'Run' button on the top to start the web server,
-            // then click the URL that is emitted to the Output tab of the console
-
-            echo 'Hello world from Cloud9!';
-
-        ?>
+     
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
