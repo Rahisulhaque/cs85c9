@@ -13,19 +13,14 @@
 
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-    <title>Guestbook</title>
+    <title>Hello from Cloud9</title>
 
   <body>
-    
-     <div class="container">
-      <h1>Hello, world! </h1>
-      <h2>This is my guest book.</h2>
-      <p>Please take a moment and tell me about you visit in my website:  </p>
-      <form>
-        <input type="text" name=""/>
-        <input type="submit" value="Submit"/>
-      </form>
-    </div>
+    <h1></h1>
+     <?php
+            ;
+
+        ?>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
